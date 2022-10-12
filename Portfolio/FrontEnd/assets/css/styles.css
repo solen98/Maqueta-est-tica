@@ -1,0 +1,178 @@
+section.banner{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.1),
+        rgba(0,0,0,0.6)
+    ),
+    url(../img/fondosera.jpg);
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size:cover;
+}
+
+body{
+    background-color: rgb(35, 189, 140);
+}
+
+section.skillsh{
+    margin-top: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.hardkills{
+    margin-top: 10rem;
+}
+
+hr {
+    margin-top: 5rem;
+    border-top: 10px solid #fffffffb;
+}
+
+h6 {
+    color: #ffff;
+}
+
+.carousel-inner {
+   margin-left: none;
+}
+
+
+section.proyectos {
+    margin-left: 15rem;
+}
+
+hr.especial{
+    margin-top: 15rem;
+}
+
+section.skillss{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+section.skillsh{
+    margin-top: 1rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.progress-bar{
+ background-color: rgba(22,146,170,1);
+}
+
+.hardkills {
+    border-color: aliceblue;
+    border-style: dashed;
+}
+
+.softskills{
+    border-color: aliceblue;
+    border-style: dashed;
+}
+
+.card {
+    width: 20%;
+    height: 45vh;
+}
+
+
+section.proyectos {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-bottom: 4rem;
+}
+
+.card-title {
+    color: rgb(119, 252, 148);
+}
+
+.espacio {
+    margin-top: 14rem;
+}
+
+.card-body {
+    color: rgb(250, 241, 241);
+    background-color: rgb(74, 196, 175);
+}
+
+section.presentacion,
+section.educacion
+{
+    color: rgb(255, 255, 255);
+}
+
+section.experiencia{
+    color: rgb(255, 255, 255);
+}
+
+h3{
+    color: rgb(119, 252, 148);
+}
+
+
+h1{
+padding-top: 20%;
+font-size: 4rem;
+}
+
+    /*background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+*/
+
+.navbar.navbar-expand-lg.bg-primary {
+    background: rgb(22,146,170);
+    background: -moz-linear-gradient(90deg, rgba(22,146,170,1) 6%, rgba(0,255,175,1) 50%, rgba(22,146,170,1) 92%);
+    background: -webkit-linear-gradient(90deg, rgba(22,146,170,1) 6%, rgba(0,255,175,1) 50%, rgba(22,146,170,1) 92%);
+    background: linear-gradient(90deg, rgba(22,146,170,1) 6%, rgba(0,255,175,1) 50%, rgba(22,146,170,1) 92%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1692aa",endColorstr="#1692aa",GradientType=1);
+}
+
+i.fa-solid.fa-user-lock.fa-2xl,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-brands.fa-github.fa-2xl,
+i.fa-brands.fa-facebook.fa-2xl,
+i.fa-solid.fa-user.fa-2xl{
+    color: #ffff;
+}
+
+i.fa-brands.fa-facebook.fa-2xl:hover{
+color: rgb(47, 0, 255);
+}
+
+i.fa-brands.fa-github.fa-2xl:hover{
+color: rgb(0, 0, 0);
+}
+
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: rgba(7, 94, 207, 0.747)
+    }
+
+    i.fa-solid.fa-user-lock.fa-2xl:hover{
+        color: rgba(65, 231, 107, 0.747)
+    }
+
+
+.list-group {
+    --bs-list-group-bg: none;
+    --bs-list-group-border-color:none;
+}
+section.Dashboard{
+    margin-top: 9rem;
+}
+
+section.panel{
+    margin-top: 9rem;
+}
+
+/*section.about{
+    margin-top: 15rem;
+}
+*/
